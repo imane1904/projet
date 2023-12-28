@@ -1,3 +1,5 @@
+//bouguettaia imane groupe 2
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
@@ -103,4 +105,5 @@ void *consumer(void *arg) {
 int main() {
     // ... (le reste du code reste inchangé)
     return 0;
+    
 }
